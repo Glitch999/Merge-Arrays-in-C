@@ -65,3 +65,6 @@ void merge(int a[], int m, int b[], int n, int sorted[]) {
     }
   }
 }
+
+
+//Could be done in python to reduce the number of lines of the code.
